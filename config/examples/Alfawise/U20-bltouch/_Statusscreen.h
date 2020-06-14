@@ -1,6 +1,6 @@
 /**
  * Marlin 3D Printer Firmware
- * Copyright (c) 2020 MarlinFirmware [https://github.com/MarlinFirmware/Marlin]
+ * Copyright (c) 2019 MarlinFirmware [https://github.com/MarlinFirmware/Marlin]
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -24,12 +24,10 @@
  * and enable CUSTOM_STATUS_SCREEN_IMAGE in Configuration.h.
  *
  * Use the Marlin Bitmap Converter to make your own:
- * https://marlinfw.org/tools/u8glib/converter.html
+ * http://marlinfw.org/tools/u8glib/converter.html
  */
 
 #pragma once
-
-#define CONFIG_EXAMPLES_DIR "Alfawise/U20-bltouch"
 
 //
 // Status Screen Logo bitmap

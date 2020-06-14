@@ -1,6 +1,6 @@
 /**
  * Made with Marlin Bitmap Converter
- * https://marlinfw.org/tools/u8glib/converter.html
+ * http://marlinfw.org/tools/u8glib/converter.html
  *
  * This bitmap from 128x64 pasted image
  */
